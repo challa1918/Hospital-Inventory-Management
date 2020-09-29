@@ -1,6 +1,7 @@
 # Hospital-Inventory-Management
 #Micro-Project-1
-This is an API developed for the management of ventilators in the hospital
+This is an API developed for the management of ventilators in the hospital.
+Technologies :Node-JS,MongoDB
 
 
 
